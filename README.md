@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/Haonter">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🙋🏻‍♂️%20Hi!,%20i%20am%20Diego%20Rodriguez;&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=15000&size=30" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=2000&pause=1500&color=0a94b2&center=true&vCenter=true&random=false&width=500&lines=Hi!%2C+i'm+Diego+Rodriguez+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;%C2%A1Hola!%2C+Soy+Diego+Rodriguez+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
+  </a>
 </p>
 <p align="center">
   <a href="https://github.com/Haonter">
@@ -9,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Haonter">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Full-Stack%20Web%20Developer%20💻;☝🏻%20I%20have%20knowledge%20about;HTML,%20CSS,%20SASS,%20PHP;Python,%20JavaScript,%20React,%20Node,%20Express;%20MongoDB,%20MySQL,%20C%20and%20WordPress;I%20like%20to%20code,%20the%20Metal%20music%20🤘🏻%20and;%20learn%20new%20things%20everytime!;Currently%20i'm%20working%20from%20home;%20and%20still%20learning%20👨🏻‍💻&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=200&size=22" /></a>
+  <a href="https:github.com/haonter"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=1000&pause=1500&color=0A94B2&center=true&vCenter=true&random=false&width=680&lines=+I'm+a+Full-Stack+Web+Developer;Soy+Desarrollador+Web+Full-Stack;And+Programming+Teacher;Y+Profesor+de+Programaci%C3%B3n;I+have+knowledge+about;Tengo+conocimientos+sobre;HTML%2C+CSS%2C+SASS%2C+PUG%2C+Tailwind%2C+Bootstrap;JavaScript%2C+Python%2C+PHP%2C+TypeScript%2C+C%2B%2B;React%2C+Laravel%2C+MySQL%2C+MongoDB;Node.js%2C+Express%2C+Flask%2C+WordPress;And+the+SCRUM+Framework;Y+la+metodolog%C3%ADa+SCRUM" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
