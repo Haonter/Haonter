@@ -44,4 +44,12 @@
 <p align="center"><img width="22%" src="https://www.codedex.io/images/homepage/room2.png"/></p>
 
 <h3 align="center">Most used languages / Lenguajes mas usados <img width=7% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bde86535-8203-40c4-8a0c-f40d10a18e8e/d11gwgl-1102df2b-8c9e-4d92-97d4-4d6cb454a274.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkZTg2NTM1LTgyMDMtNDBjNC04YTBjLWY0MGQxMGExOGU4ZVwvZDExZ3dnbC0xMTAyZGYyYi04YzllLTRkOTItOTdkNC00ZDZjYjQ1NGEyNzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DAoQWljBbvsU3NWrtOWJHgMTjUCtsm7Q8xBuWCjll9Y"/></h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haonter&layout=compact&hide_border=true&border_radius=20&title_color=ffffff&text_color=ffffff&bg_color=DEG,001f34,00709a,001f34&&card_width=600px"></p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haonter&layout=compact&hide_border=true&border_radius=20&title_color=ffffff&text_color=ffffff&bg_color=DEG,001f34,00709a,001f34&&card_width=600px">
+</p>
+
+<!--  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haonter&layout=donut-vertical&hide_border=true&border_radius=20&title_color=ffffff&text_color=ffffff&bg_color=DEG,001f34,00709a,001f34&card_width=320px">
+</p> -->
