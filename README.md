@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Haonter">
-    <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" width="650px" alt="Diego Rodriguez" />
+    <img src="https://diegorodriguez.dev/src/img/GitHub.png" width="750px" alt="Diego Rodriguez" />
   </a>
 </p>
 
@@ -16,12 +16,16 @@
 <!-- Social icons section -->
 <h3 align="center">My Social Networks / Mis Redes Sociales</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-rodr%C3%ADguez-b83b75247"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
+  <a href="https://www.linkedin.com/in/didacusdev"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/didacusdev"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/0Q8VJ80.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
+<p align="center">
+  <a href="https://github.com/Haonter">
+    <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" width="650px" alt="Diego Rodriguez" />
+  </a>
+</p>
 <h3 align="center"><img width=10% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60f2b66e-1733-440a-ad24-25064eb5820d/d1lomba-35e7f3af-48eb-4d3c-8e3b-6388d70f4cd0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwZjJiNjZlLTE3MzMtNDQwYS1hZDI0LTI1MDY0ZWI1ODIwZFwvZDFsb21iYS0zNWU3ZjNhZi00OGViLTRkM2MtOGUzYi02Mzg4ZDcwZjRjZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uXM6opbNLzxXFVysR5i6R4eG7Q4yNiO-Nwygqtgqsbw"/> Technologies and Tools i use / Herramientas y Tecnologias que uso</h3>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
