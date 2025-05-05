@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Haonter">
-    <img src="https://diegorodriguez.dev/src/img/GitHub.png" width="750px" alt="Diego Rodriguez" />
+    <img src="./img/GitHub.png" width="750px" alt="Diego Rodriguez" />
   </a>
 </p>
 
