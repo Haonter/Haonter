@@ -56,6 +56,6 @@
   </a>
   &nbsp&nbsp&nbsp
   <a href="https://diegorodriguez.dev">
-    <img src="https://www.psychology.hu-berlin.de/de/personal/91680370/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png/@@images/image.png" width="32px" alt="Portfolio" />
+    <img src="https://www.psychology.hu-berlin.de/de/personal/91680370/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png/@@images/image.png" width="32px" alt="Portfolio" title="Portfolio"/>
   </a>
 </p>
